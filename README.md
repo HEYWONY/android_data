@@ -20,7 +20,7 @@ MODE_PRIVATE : 항상 0이어야 된다.
 2. close() -> 스트림 닫기 <br>
 
 ### boolean deleteFile(Stringname)
-내부 저장소의 파일을 삭제, 삭제되면 true, 실패하면 false <br>
+내부 저장소의 파일을 삭제, 삭제되면 true, 실패하면 false <br><br>
 
 
 ## 실행 결과
