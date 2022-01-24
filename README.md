@@ -24,9 +24,12 @@ MODE_PRIVATE : 항상 0이어야 된다.
 
 
 ## 실행 결과
-![a](https://user-images.githubusercontent.com/65533618/150717004-fc4e7194-176a-4ebf-a5db-ed568cd3b73c.PNG) <br>
-글을 적은 뒤, 저장하기를 누르고 나가기를 누른다 <br>
-![bb](https://user-images.githubusercontent.com/65533618/150717015-ca525d85-5bcb-4db5-848f-b0ad89b54b11.PNG) <br>
+##### 1. 글을 적은 뒤, 저장하기를 누르고 나가기를 누른다<br>
+![a](https://user-images.githubusercontent.com/65533618/150717004-fc4e7194-176a-4ebf-a5db-ed568cd3b73c.PNG) <br><br>
+
+##### 2. 다시 화면을 킨 뒤, 읽어오기를 누른다<br>
+![bb](https://user-images.githubusercontent.com/65533618/150717015-ca525d85-5bcb-4db5-848f-b0ad89b54b11.PNG) <br><br>
+
+##### 3. 아래 사진처럼 보이게 된다.<br>
 ![c](https://user-images.githubusercontent.com/65533618/150717019-d374049a-5ba4-4b02-b2dd-d337b607e087.PNG) <br>
-읽어오기를 누르면 위 상태처럼 보이게 된다.
 
